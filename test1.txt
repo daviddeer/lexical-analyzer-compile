@@ -1,0 +1,14 @@
+	VAR 3x,y,&z:integer;
+        a:integer;/else   _  x _
+ test   // aaaa
+	begin
+	  while($@) 		do
+          x:=23.5+5;
+          y:=z_a1+18*3-100;
+{º∆À„    
+
+
+dfgdfgf
+
+ ≈–∂œ}if 256<>986 then <=else ;
+	end.
